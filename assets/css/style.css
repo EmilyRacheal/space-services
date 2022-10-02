@@ -937,6 +937,7 @@ section {
 
 .features .tab-content {
   margin-top: 30px;
+  /* padding: 30px; */
 }
 
 .features .tab-pane h3 {
